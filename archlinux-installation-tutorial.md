@@ -12,7 +12,7 @@
 
 >**$ ls /sys/firmware/efi/efivars**  
 
-#验证引导模式（如果目录不存在，即为Legacy BIOS引导模式；反之，请使用隔壁以UEFI为例的教程（请参考<https://storm-1614.github.io/blog-linux/setup_archlinux/>））
+#验证引导模式（如果目录不存在，即为Legacy BIOS引导模式；反之，请使用以UEFI为例的教程
 
 >**$ iwctl**  
 
